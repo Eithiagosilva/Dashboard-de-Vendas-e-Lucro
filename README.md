@@ -28,7 +28,7 @@ O objetivo foi criar um **dashboard analítico** para acompanhar vendas, custos 
 ## 📸 Preview do Dashboard  
 *(adicione aqui uma ou mais imagens do dashboard, exemplo abaixo)*  
 
-![Dashboard Preview](./dash_preview.png)  
+![Dashboard Preview](LAB2/dash_preview.png)  
 
 ## 🚀 Resultados  
 Este projeto me permitiu:  
